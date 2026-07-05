@@ -1,5 +1,4 @@
 # Customer-Churn-Predcition
-# Customer Churn Prediction
 
 ## Project Overview
 
